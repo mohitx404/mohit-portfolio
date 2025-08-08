@@ -5,7 +5,7 @@ This is a clean, modern, and responsive site that showcases my skills as a **Web
 
 ## 🌐 Live Preview
 
-[View Portfolio](https://your-portfolio-link.com)
+[View Portfolio](https://mohit-portfolio-psi.vercel.app/)
 
 ---
 
